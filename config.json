@@ -1,0 +1,6 @@
+{
+    "label":	"Juka",
+    "icon":	"jukalogo.png",
+    "launch":	"launch.sh",
+    "description":	"Juka Programming Language"
+}
