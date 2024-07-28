@@ -1,4 +1,0 @@
-sub main() = {
-   printLine("Hello World");
-   printLine("Hello World2");
-}
